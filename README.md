@@ -1,4 +1,4 @@
-# sacc2017
+# SAAC - 2018
 Esse repositório contém o site da semana acadêmica de ciência da computação UFCG.
 
 Authors
